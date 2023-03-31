@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>且听风吟 Blog</title>
+        <link>https://your-docusaurus-test-site.com/</link>
+        <description>且听风吟 Blog</description>
+        <lastBuildDate>Fri, 31 Mar 2023 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>zh-Hans</language>
+        <item>
+            <title><![CDATA[真正的幸福从此刻开始]]></title>
+            <link>https://your-docusaurus-test-site.com/2023/03/31/</link>
+            <guid>/2023/03/31/</guid>
+            <pubDate>Fri, 31 Mar 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[插图1]]></description>
+            <content:encoded><![CDATA[<p><img loading="lazy" alt="插图1" src="/assets/images/003-3200cac4b44b5d3be93dbffb0123b1bf.jpg" width="3472" height="4624" class="img_ev3q"></p><p>今天和陈小姐去领证啦，还是十分开心的。之前有预判，但没想到领证的流程还是不到十分钟就走完了，也没有什么宣誓环节，整体流程给我的感觉就很随意。其实距离
+真正结婚已经快满2年了，因为种种原因，拖到现在采取领证。时间真的过得很快，我现在感觉整个结婚才算圆满，今天也会更加对小可爱好。下一步计划就是为这个家
+好好的奋斗。</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[持续不断的超越自我]]></title>
+            <link>https://your-docusaurus-test-site.com/2023/01/31/</link>
+            <guid>/2023/01/31/</guid>
+            <pubDate>Tue, 31 Jan 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[插图1]]></description>
+            <content:encoded><![CDATA[<p><img loading="lazy" alt="插图1" src="/assets/images/002-23c453a69309900ddf6854d20c88a308.jpg" width="1280" height="852" class="img_ev3q"></p><p>今天是2023年的第二个工作日，春节刚结束。短短7天，生活感慨良多。家里的亲戚一个比一个混的好，还有我最好的朋友，他们不是有编制就是博士学历，让本科得我相形见绌。说实话挺羡慕他们的，因为这是我无法企及的高度，也是我最终想到达到的高度。</p><p>过去一年，碌碌无为。工作看似很忙，但其实忙的什么劲我也不知道。说实话，已经厌倦了外包的工作，每天重复的操作，还有改不完的bug，持续不断地内耗这自己，有时候真想逃离，但没有办法，房贷要还，很多事情还要去做。想做精英，最后无非是一个高级打工人而已。我想要有所成就，我知道只有行动起来才有机会得到。路途虽远，行则将至。</p><p>新的一年，应当有新的规划，新年计划将于本周末完成。</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[开始记录生活]]></title>
+            <link>https://your-docusaurus-test-site.com/start</link>
+            <guid>start</guid>
+            <pubDate>Sat, 29 Oct 2022 16:23:40 GMT</pubDate>
+            <description><![CDATA[插图1]]></description>
+            <content:encoded><![CDATA[<p><img loading="lazy" alt="插图1" src="/assets/images/001-0c0bec946d3317a3e3158eaa50b60eda.jpg" width="640" height="427" class="img_ev3q"></p><p>在生命的长河中，所有的人物、故事、还有记忆最终都会经历桑海沧田，化为尘埃，无人记得。但总有些事情在我们有生之年可以做到，那就是记录当下。<!-- -->
+记忆是极容易模糊的，我们每天获取的消息是古代人一生所获取之多，随着时间流逝，我们只会记得当下发生的事情。生命中的美好不仅在当下，也在过去。</p><p>由此，我将开启我的旅程，用笔尖记录生活，感受美好，留住感动。</p>]]></content:encoded>
+        </item>
+    </channel>
+</rss>
